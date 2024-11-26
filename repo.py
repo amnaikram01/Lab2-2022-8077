@@ -19,3 +19,5 @@ for i in range(count):
         print(f"{num} is even.")
     else:
         print(f"{num} is odd.")
+
+done-with both loops
